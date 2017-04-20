@@ -42,7 +42,7 @@
     <!--END OF ANDROID -->
 
     <!--BEGIN OF IOS -->
-    <!-- <platform name="ios">
+    <platform name="ios">
 
         <config-file target="config.xml" parent="/widget">
             <preference name="partner" value="$PARTNER_ID"/>
@@ -78,6 +78,6 @@
         <header-file src="src/ios/AlipayPlugin.h"/>
         <source-file src="src/ios/AlipayPlugin.m"/>
 
-    </platform> -->
-    <!--END OF ANDROID -->
+    </platform>
+    <!--END OF IOS -->
 </plugin>
