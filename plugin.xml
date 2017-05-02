@@ -5,7 +5,7 @@
         version="0.0.1">
     <name>AliPay</name>
 
-    <!--<preference name="PARTNER_ID"/>-->
+    <preference name="PARTNER_ID"/>
     <js-module src="www/alipay.js" name="AliPay">
         <clobbers target="cordova.plugins.AliPay"/>
     </js-module>
